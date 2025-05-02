@@ -23,7 +23,8 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 
 ## Live Demo
 
-The live verison of the website is available [here]https://github.com/gimenar27/portfolio-site.git 
+The live version of the website is available [here](https://gimenar27.github.io/portfolio-site/)
+
 
 ## Installation
 To run this project locally, follow these steps:
