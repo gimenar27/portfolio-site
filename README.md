@@ -1,4 +1,4 @@
-#Gimena Rios's Portfolio Website
+## Gimena Rios's Portfolio Website
 
 Welcome to my portfolio website! This project showcases my skills, projects, and experiences for my final project in CPSC 349.
 
